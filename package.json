@@ -1,0 +1,26 @@
+{
+  "name": "aula---07",
+  "version": "1.0.0",
+  "description": "Exemplo mvc-node-express Aula 07",
+  "main": "app.js",
+
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon app.js"
+  },
+  "keywords": [
+    "Node",
+    "MVC",
+    "Express",
+    "ejs"
+  ],
+  "author": "LucasKMS",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "nodemon": "^3.1.0"
+  },
+  "devDependencies": {
+    "express": "^4.19.2"
+  }
+}
